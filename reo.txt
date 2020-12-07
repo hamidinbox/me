@@ -6,7 +6,7 @@
 					<a style="color:#337ab7" href="https://suma.reo.my.id" rel="nofollow">SUMATRA</a> &middot;
 					<a style="color:#337ab7" href="https://nusa.reo.my.id" rel="nofollow">NUSA</a>
 					<br/>
-					<a style="color:#337ab7" href="https://bubur.reo.my.id" rel="nofollow">SUMATRA</a> &middot;
-					<a style="color:#337ab7" href="https://sate.reo.my.id" rel="nofollow">SUMATRA</a> &middot;
-					<a style="color:#337ab7" href="https://udang.reo.my.id" rel="nofollow">SUMATRA</a> 
+					<a style="color:#337ab7" href="https://bubur.reo.my.id" rel="nofollow">BUBUR</a> &middot;
+					<a style="color:#337ab7" href="https://sate.reo.my.id" rel="nofollow">SATE</a> &middot;
+					<a style="color:#337ab7" href="https://udang.reo.my.id" rel="nofollow">UDANG</a> 
                 </b>
