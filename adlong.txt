@@ -1,5 +1,5 @@
 <center>
-<script type="text/javascript">
+<XCipt type="text/javascript">
 	atOptions = {
 		'key' : '6330646530313562346465313537303762313737346332613763313630313731',
 		'format' : 'iframe',
@@ -7,6 +7,6 @@
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.displaycontentprofit.com/6330646530313562346465313537303762313737346332613763313630313731/invoke.js"></scr' + 'ipt>');
-</script>
+	document.write('<XC' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.displaycontentprofit.com/6330646530313562346465313537303762313737346332613763313630313731/invoke.js"></XC' + 'ipt>');
+</XCipt>
 </center>
