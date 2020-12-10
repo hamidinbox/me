@@ -1,0 +1,32 @@
+array(
+      'kanoe' => array(
+                      'box' => '<center>
+                                <XCipt type="text/javascript">
+                                  atOptions = {
+                                  \'key\' : \'a252f539f111973aec6472f89fff459f\',
+                                  \'format\': \'iframe\',
+                                  \'height\' : 250,
+                                  \'width\' : 300,
+                                  \'params\' : {}
+                                  };
+                                  document.write(\'<XC\' + \'ipt type="text/javascript" src="http\' + (location.protocol === \'https:\' ? \'s\' : \'\') + \'://www.displaycontentprofit.com/a252f539f111973aec6472f89fff459f/invoke.js"></XC\' + \'ipt>\');
+                                </XCipt>
+                                </center>',
+                      'long' => '<center>
+                                <XCipt type="text/javascript">
+                                  atOptions = {
+                                  \'key\' : \'c0de015b4de15707b1774c2a7c160171\',
+                                  \'format\': \'iframe\',
+                                  \'height\' : 90,
+                                  \'width\' : 728,
+                                  \'params\' : {}
+                                  };
+                                  document.write(\'<XC\' + \'ipt type="text/javascript" src="http\' + (location.protocol === \'https:\' ? \'s\' : \'\') + \'://www.displaycontentprofit.com/c0de015b4de15707b1774c2a7c160171/invoke.js"></XC\' + \'ipt>\');
+                                </XCipt>
+                                </center>',    
+                      'native' => '<center>
+                                  <SC async="async" data-cfasync="false" src="//pl15973240.toprevenuecpmnetwork.com/604ae503a1201f3fe897628d89f537d6/invoke.js"></SC>
+                                  <div id="container-604ae503a1201f3fe897628d89f537d6"></div>
+                                  </center>'                               
+                  ) 
+       );           
