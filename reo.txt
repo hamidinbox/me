@@ -1,7 +1,7 @@
                 <b>
 					<a style="color:#337ab7" href="https://bali.reo.my.id" rel="nofollow">BALI</a> &middot;
-					<a style="color:#337ab7" href="https://borneo.reo.my.id" rel="nofollow">BORNEO</a> &middot;
-					<a style="color:#337ab7" href="https://jawa.reo.my.id" rel="nofollow">JAWA</a>
+					<a style="color:#337ab7" href="https://jawa.reo.my.id" rel="nofollow">JAWA</a> &middot;
+					<a style="color:#337ab7" href="https://borneo.reo.my.id" rel="nofollow">KALIMANTAN</a>
 					<br/>
 					<a style="color:#337ab7" href="https://bubur.reo.my.id" rel="nofollow">BUBUR</a> &middot;
 					<a style="color:#337ab7" href="https://iwak.me" rel="nofollow">IKAN</a> &middot;
