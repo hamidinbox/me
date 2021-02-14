@@ -4,4 +4,5 @@
     [<a href="https://reo.my.id" title="Resep Enak Online">REO</a>]
     [<a href="https://www.nagapulsa.com" title="pulsa paypal">PULSA PAYPAL</a>]
     [<a href="https://hamidi.co.id" title="HAM Indonesia">HAMIDI</a>]
+    [<a href="https://lagu.in.net" title="Lagu Internet">LAGU</a>]
 </p>
