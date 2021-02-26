@@ -1,7 +1,7 @@
                 <b>
 					<a style="color:#337ab7" href="https://sains.reo.my.id" rel="nofollow">SAINS</a> &middot;
 					<a style="color:#337ab7" href="https://travel.reo.my.id" rel="nofollow">TRAVEL</a> &middot;
-					<a style="color:#337ab7" href="https://sehat.reo.my.id" rel="nofollow">SEHAT</a>
+					<a style="color:#337ab7" href="https://sehat.reo.my.id" rel="nofollow">SEHAT</a> &middot;
 					<a style="color:#337ab7" href="https://game.reo.my.id" rel="nofollow">GAME</a> &middot;
 					<a style="color:#337ab7" href="https://gadget.reo.my.id" rel="nofollow">GADGET</a> &middot;
 					<a style="color:#337ab7" href="https://bisnis.reo.my.id" rel="nofollow">BISNIS</a> &middot;
