@@ -6,5 +6,5 @@
 					<a style="color:#337ab7" href="https://gadget.reo.my.id" rel="nofollow">GADGET</a> &middot;
 					<a style="color:#337ab7" href="https://bisnis.reo.my.id" rel="nofollow">BISNIS</a> &middot;
 					<a style="color:#337ab7" href="https://dekor.reo.my.id" rel="nofollow">DEKORASI</a> &middot;
-					<a style="color:#337ab7" href="https://info.reo.my.id" rel="nofollow">HOT INFO</a> &middot;
+					<a style="color:#337ab7" href="https://info.reo.my.id" rel="nofollow">INFO UNIK</a> &middot;
                 </b>
