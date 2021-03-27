@@ -1,10 +1,10 @@
                 <b>
-					<a style="color:#337ab7" href="https://sains.reo.my.id" rel="nofollow">SAINS</a> &middot;
-					<a style="color:#337ab7" href="https://travel.reo.my.id" rel="nofollow">TRAVEL</a> &middot;
-					<a style="color:#337ab7" href="https://sehat.reo.my.id" rel="nofollow">SEHAT</a> &middot;
-					<a style="color:#337ab7" href="https://game.reo.my.id" rel="nofollow">GAME</a> &middot;
-					<a style="color:#337ab7" href="https://gadget.reo.my.id" rel="nofollow">GADGET</a> &middot;
-					<a style="color:#337ab7" href="https://bisnis.reo.my.id" rel="nofollow">BISNIS</a> &middot;
-					<a style="color:#337ab7" href="https://dekor.reo.my.id" rel="nofollow">DEKORASI</a> &middot;
-					<a style="color:#337ab7" href="https://info.reo.my.id" rel="nofollow">INFO UNIK</a> &middot;
+					<a style="color:#337ab7" href="/sains/" title="SAINS">SAINS</a> &middot;
+					<a style="color:#337ab7" href="/tekno/" title="TEKNO">TEKNO</a> &middot;
+					<a style="color:#337ab7" href="/wisata/" title="WISATA">WISATA</a> &middot;
+					<a style="color:#337ab7" href="/sehat/" title="SEHAT">SEHAT</a> &middot;
+					<a style="color:#337ab7" href="/game/" title="GAME">GAME</a> &middot;
+					<a style="color:#337ab7" href="/bisnis/" title="BISNIS">BISNIS</a> &middot;
+					<a style="color:#337ab7" href="/dekorasi/" title="DEKORASI">DEKORASI</a> &middot;
+					<a style="color:#337ab7" href="/" title="INFO UNIK">INFO UNIK</a> &middot;
                 </b>
