@@ -1,7 +1,4 @@
 <div align="left">
     Email: <a>bundareo@yahoo.com</a> <br />
-    WhatsApp: <a href="https://wa.me/15138101010" rel="nofollow">+1-5138-101010</a> <br />
-    [<a href="https://hamidi.co.id" title="HAM Indonesia">HAMIDI</a>]
-    [<a href="https://info.hamidi.co.id" title="HAM Indonesia">BLOG</a>]
-    [<a href="https://lagu.in.net" title="Lagu Internet">LAGU</a>]
+    WhatsApp: <a href="https://wa.me/15138101010" rel="nofollow">+1-5138-101010</a>
 </div>
